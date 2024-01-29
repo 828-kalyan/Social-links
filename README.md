@@ -28,7 +28,8 @@ Users should be able to:
 
 ### Screenshot
 
-![uihi](https://github.com/828-kalyan/Social-links/assets/75324176/49e87db9-75c0-473b-977f-25e2c1bfc8d0)
+![]()
+![uihi](https://github.com/828-kalyan/Social-links/assets/75324176/d1623295-3da4-4200-bb53-0c5ddc44f682)
 
 
 Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
