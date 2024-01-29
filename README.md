@@ -96,7 +96,7 @@ Use this section to outline areas that you want to continue focusing on in futur
 ## Author
 
 - Website - [Kalyan Sarabu](https://828-kalyan.github.io/portfolio-website/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/828-kalyan)
+- Frontend Mentor - [@828-kalyan](https://www.frontendmentor.io/profile/828-kalyan)
 - Linkedin - [@Kalyan Sarabu](https://www.linkedin.com/in/kalyan-sarabu-63b52524b)
 
 **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
